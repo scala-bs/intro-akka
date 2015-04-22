@@ -1,0 +1,264 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\ApplicationMain$.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\ApplicationMain$delayedInit$body.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\ApplicationMain.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PingActor$$anonfun$receive$1.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PingActor$.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PingActor$Initialize$.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PingActor$PingMessage$.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PingActor$PingMessage.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PingActor.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PongActor$$anonfun$receive$1.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PongActor$.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PongActor$PongMessage$.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PongActor$PongMessage.class
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PongActor.class
+binary dependencies:
+9 items
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> C:\Users\Felix\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> C:\Users\Felix\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> C:\Users\Felix\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> C:\Users\Felix\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> C:\Users\Felix\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> C:\Users\Felix\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> com.example.ApplicationMain
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> com.example.ApplicationMain$
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> com.example.ApplicationMain$delayedInit$body
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> com.example.PingActor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> com.example.PingActor$
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> com.example.PingActor$$anonfun$receive$1
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> com.example.PingActor$Initialize$
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> com.example.PingActor$PingMessage
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> com.example.PingActor$PingMessage$
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> com.example.PongActor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> com.example.PongActor$
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> com.example.PongActor$$anonfun$receive$1
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> com.example.PongActor$PongMessage
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> com.example.PongActor$PongMessage$
+used names:
+128 items
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> !
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> <init>
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> ActorRef
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> ActorSystem
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> App
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> ApplicationMain
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> Initialize
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> PingActor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> actor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> actorOf
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> actorRef2Scala
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> akka
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> apply
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> awaitTermination
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> com
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> example
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> package
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> pingActor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> props
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> qual$1
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> scala
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> system
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> x$1
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> x$2
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> !
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> &&
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> +
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> <init>
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> ==
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> A1
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> AbstractFunction1
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> Actor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> ActorLogging
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> ActorRef
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> AnyRef
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> B1
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> ClassTag
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> Function1
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> Initialize
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> Int
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> None
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> PingActor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> PingMessage
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> PongActor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> Predef
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> Product
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> Props
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> ScalaRunTime
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> Serializable
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> String
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> _hashCode
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> _toString
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> actor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> actorOf
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> actorRef2Scala
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> akka
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> apply
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> asInstanceOf
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> com
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> context
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> counter
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> counter_=
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> eq
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> example
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> info
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> isInstanceOf
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> log
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> materializeClassTag
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> package
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> pongActor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> props
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> runtime
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> scala
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> self
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> sender
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> shutdown
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> system
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> text
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> toString
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> typedProductIterator
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> unchecked
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> ||
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> !
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> &&
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> <init>
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> ==
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> A1
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> AbstractFunction1
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> Actor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> ActorLogging
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> AnyRef
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> B1
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> ClassTag
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> Function1
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> None
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> PongActor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> PongMessage
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> Predef
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> Product
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> Props
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> ScalaRunTime
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> Serializable
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> String
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> _hashCode
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> _toString
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> actor
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> actorRef2Scala
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> akka
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> apply
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> asInstanceOf
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> com
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> eq
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> example
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> info
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> isInstanceOf
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> log
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> materializeClassTag
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> package
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> props
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> runtime
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> scala
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> self
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> sender
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> text
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> toString
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> typedProductIterator
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> unchecked
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> ||
+product stamps:
+14 items
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\ApplicationMain$.class -> lastModified(1429712337685)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\ApplicationMain$delayedInit$body.class -> lastModified(1429712337704)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\ApplicationMain.class -> lastModified(1429712337638)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PingActor$$anonfun$receive$1.class -> lastModified(1429712337751)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PingActor$.class -> lastModified(1429712337704)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PingActor$Initialize$.class -> lastModified(1429712337751)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PingActor$PingMessage$.class -> lastModified(1429712337767)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PingActor$PingMessage.class -> lastModified(1429712337782)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PingActor.class -> lastModified(1429712337735)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PongActor$$anonfun$receive$1.class -> lastModified(1429712337814)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PongActor$.class -> lastModified(1429712337798)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PongActor$PongMessage$.class -> lastModified(1429712337814)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PongActor$PongMessage.class -> lastModified(1429712337829)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\target\scala-2.11\classes\com\example\PongActor.class -> lastModified(1429712337798)
+source stamps:
+3 items
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> hash(7339dac469033237c2b8b4f69e22f5365f1c8dc5)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> hash(530302219adf17d1bdc96b273ddbfdc878ff66da)
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> hash(61ae90a6b7ba190698a269af519afa5fa5b3f412)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar -> lastModified(1415629757141)
+C:\Users\Felix\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar -> lastModified(1421734693000)
+C:\Users\Felix\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar -> lastModified(1420590731000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Felix\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar -> akka.actor.Actor
+C:\Users\Felix\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar -> scala.runtime.AbstractFunction1
+internal apis:
+3 items
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAiRjXhAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJyj7id0AAZub3RpZnlzcQB+AAy7Lrh2dAAEd2FpdHNxAH4ADERyjFp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMyxd4N3QABnN5c3RlbXNxAH4ADP2PMqR0AAZlcXVhbHNzcQB+AAwGRSrzdAAMYXNJbnN0YW5jZU9mc3EAfgAMeSd9InQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMoDdb6XQADHN5bmNocm9uaXplZHNxAH4ADFJadq90AA0kaXNJbnN0YW5jZU9mc3EAfgAM7xQLYXQABG1haW5zcQB+AAzUISuodAAJbm90aWZ5QWxsc3EAfgAMZVUlynQADGlzSW5zdGFuY2VPZnNxAH4ADMfquQ10AAI9PXNxAH4ADOMeVr50AA9BcHBsaWNhdGlvbk1haW5zcQB+AAxhfWXBdAAFY2xvbmVzcQB+AAw4wqfHdAAIdG9TdHJpbmdzcQB+AAxryeymdAAEYXJnc3NxAH4ADMxy+Gh0AAIhPXNxAH4ADCyjYZN0AAhnZXRDbGFzc3NxAH4ADJdfvtR0AAJuZXNxAH4ADLhYoMJ0AAlwaW5nQWN0b3JzcQB+AAwHhArUdAACZXFzcQB+AAzaKTakdAALZGVsYXllZEluaXRzcQB+AAw8wRE1dAACIyNzcQB+AAxwngIOdAAIZmluYWxpemVzcQB+AAxLNx2UdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAbY29tLmV4YW1wbGUuQXBwbGljYXRpb25NYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZQBwc3EAfgBqc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AbnNxAH4AZQBwc3EAfgBqdXEAfgBGAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgBGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBMcQB+AFV1cQB+AFYAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB7eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG10ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlXNxAH4AWABxAH4AIXVxAH4AWwAAAABzcQB+AIh0AARVbml0cQB+AI51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB7eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBedAAFUGxhaW5xAH4AL3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AiVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AbXNxAH4AiHQABUFycmF5cQB+AI51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AiHQABlN0cmluZ3NxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJR0AARqYXZhc3EAfgCUdAAEbGFuZ3EAfgCZc3EAfgBlAHBzcQB+AGp1cQB+ALAAAAAEc3EAfgCIdAADQXBwcQB+AI5zcQB+AIh0AAtEZWxheWVkSW5pdHEAfgCOc3EAfgCIdAAGT2JqZWN0cQB+ALRzcQB+AIh0AANBbnlxAH4AjnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbS5leGFtcGxlc3EAfgDIdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFM4X7iinVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGRDOlxQcm9ncmFtbWluZ1x1bml2ZXJzaXR5XGxlYXJuaW5nXHNjYWxhXHVzZXItZ3JvdXBcaW50cm8tYWtrYVxzaW1wbGUtYWtrYVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUcznaxGkDMjfCuLT2niL1Nl8cjcU=
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCw5eiTAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmhetz3QABHNlbGZzcQB+AAtqUUiEdAAHY29udGV4dHVxAH4ACQAAADZzcQB+AAusLkxxdAAGbm90aWZ5c3EAfgALC1uMinQAB3VuYXBwbHlzcQB+AAsY/eVGdAAHUmVjZWl2ZXNxAH4AC269Pfp0AAtQaW5nTWVzc2FnZXNxAH4AC6XJsdN0AAR3YWl0c3EAfgALlGkmfXQADSRhc0luc3RhbmNlT2ZzcQB+AAuOA+KpdAAHY29tcG9zZXNxAH4AC+FJ7dd0AAxwcm9kdWN0QXJpdHlzcQB+AAuX6ehhdAAGZXF1YWxzc3EAfgAL/5ZyDnQADGFzSW5zdGFuY2VPZnNxAH4AC2vQEA50AAxzeW5jaHJvbml6ZWRzcQB+AAvRx420dAANJGlzSW5zdGFuY2VPZnNxAH4AC/Fzk590AAdhbmRUaGVuc3EAfgALQiK8FnQAB3JlY2VpdmVzcQB+AAsBS6KddAAKcHJlUmVzdGFydHNxAH4ACyYuh8l0AA1hcm91bmRSZWNlaXZlc3EAfgALY4cX83QABHRleHRzcQB+AAuHcD3mdAAIY2FuRXF1YWxzcQB+AAuFBUxadAALcG9zdFJlc3RhcnRzcQB+AAsFNiModAAIcG9zdFN0b3BzcQB+AAtl4p9FdAANcHJvZHVjdFByZWZpeHNxAH4ACxre2Y50AAlub3RpZnlBbGxzcQB+AAuEzyvFdAALcmVhZFJlc29sdmVzcQB+AAsRwZv6dAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAtE3wO5dAAMaXNJbnN0YW5jZU9mc3EAfgALNinu8HQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAttOktddAAOYXJvdW5kUG9zdFN0b3BzcQB+AAuxOl1ndAAKSW5pdGlhbGl6ZXNxAH4ACyh2wSJ0AAY8aW5pdD5zcQB+AAvo9zM8dAAIcHJlU3RhcnRzcQB+AAt6RFxOdAAJdW5oYW5kbGVkc3EAfgAL7+AYb3QABWFwcGx5c3EAfgALMbcDA3QACVBpbmdBY3RvcnNxAH4AC4BSHsR0AAI9PXNxAH4AC96zIOp0AAVjbG9uZXNxAH4AC/gmU8t0AARjb3B5c3EAfgALWinWMXQABnNlbmRlcnNxAH4AC0+QbVZ0AAdjb3VudGVyc3EAfgALif+LXnQACHRvU3RyaW5nc3EAfgALhi10VXQAAiE9c3EAfgALDDJRhXQACGdldENsYXNzc3EAfgALrgUE4HQADmNvcHkkZGVmYXVsdCQxc3EAfgALk2gxiXQABXByb3Bzc3EAfgALDybIE3QAAm5lc3EAfgALF7GFL3QACXBvbmdBY3RvcnNxAH4AC6BD8mR0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAsdoUmadAACZXFzcQB+AAuXTjNGdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAL7TMMqnQAA2xvZ3NxAH4AC6xHpfV0AAIjI3NxAH4AC564u2V0AAhmaW5hbGl6ZXNxAH4AC3GF2090AA5wcm9kdWN0RWxlbWVudHNxAH4AC8Ae9+d0AAhoYXNoQ29kZXNxAH4AC6eElKN0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AId4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABVjb20uZXhhbXBsZS5QaW5nQWN0b3J1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGE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
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCROaT+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyJ1KInQABHNlbGZzcQB+AAuJA9BpdAAHY29udGV4dHVxAH4ACQAAADNzcQB+AAtsBzmhdAAGbm90aWZ5c3EAfgALUBjzzXQAB3VuYXBwbHlzcQB+AAsQ8PfxdAAHUmVjZWl2ZXNxAH4AC8UK9T50AAR3YWl0c3EAfgALf5i253QADSRhc0luc3RhbmNlT2ZzcQB+AAv2qnRadAAHY29tcG9zZXNxAH4AC4CJ1Xl0AAxwcm9kdWN0QXJpdHlzcQB+AAtjCTY7dAAGZXF1YWxzc3EAfgALroRyXnQAC1BvbmdNZXNzYWdlc3EAfgALEfvH3XQADGFzSW5zdGFuY2VPZnNxAH4AC87F6zV0AAxzeW5jaHJvbml6ZWRzcQB+AAs3chU8dAANJGlzSW5zdGFuY2VPZnNxAH4AC8iNhjV0AAdhbmRUaGVuc3EAfgALTx2nFXQAB3JlY2VpdmVzcQB+AAsIAZaldAAKcHJlUmVzdGFydHNxAH4ACwYs7nB0AA1hcm91bmRSZWNlaXZlc3EAfgALoM3JmnQABHRleHRzcQB+AAsLZI8kdAAIY2FuRXF1YWxzcQB+AAtnCJSpdAALcG9zdFJlc3RhcnRzcQB+AAuz1YbLdAAIcG9zdFN0b3BzcQB+AAtnTWqXdAANcHJvZHVjdFByZWZpeHNxAH4AC5Er+PZ0AAlub3RpZnlBbGxzcQB+AAuVl/AwdAALcmVhZFJlc29sdmVzcQB+AAuqCgBpdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAthDukWdAAMaXNJbnN0YW5jZU9mc3EAfgAL4Lo4QXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAuwcsRTdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAvHoRmLdAAGPGluaXQ+c3EAfgALhKPQpHQACHByZVN0YXJ0c3EAfgALJd6c6nQACXVuaGFuZGxlZHNxAH4ACw4US4V0AAVhcHBseXNxAH4AC8JKIFF0AAI9PXNxAH4AC7TWyTJ0AAVjbG9uZXNxAH4ACysFNF50AARjb3B5c3EAfgAL36WjM3QABnNlbmRlcnNxAH4AC4nH4NF0AAh0b1N0cmluZ3NxAH4AC9khYVl0AAIhPXNxAH4ACwwbw010AAhnZXRDbGFzc3NxAH4ACxVLSRZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC55Tadl0AAVwcm9wc3NxAH4ACyd1NMl0AAlQb25nQWN0b3JzcQB+AAs+IaRidAACbmVzcQB+AAtWzbsIdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgAL71NRZ3QAAmVxc3EAfgAL+b5b+XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACyWss6h0AANsb2dzcQB+AAst5AnjdAACIyNzcQB+AAvgDIY8dAAIZmluYWxpemVzcQB+AAuQfzpsdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAsVTIkcdAAIaGFzaENvZGVzcQB+AAsj++2hdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAVY29tLmV4YW1wbGUuUG9uZ0FjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZ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
+external apis:
+0 items
+source infos:
+3 items
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\ApplicationMain.scala -> 
+AAAAAAAAAAA=
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PingActor.scala -> 
+AAAAAAAAAAA=
+C:\Programming\university\learning\scala\user-group\intro-akka\simple-akka\src\main\scala\PongActor.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOF+4op1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZEM6XFByb2dyYW1taW5nXHVuaXZlcnNpdHlcbGVhcm5pbmdcc2NhbGFcdXNlci1ncm91cFxpbnRyby1ha2thXHNpbXBsZS1ha2thXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
